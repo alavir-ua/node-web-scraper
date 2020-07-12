@@ -1,0 +1,29 @@
+{
+	"name": "node-web-scraper",
+	"version": "1.0.0",
+	"description": "Examples of cleaning up a static site with Axios, Cheerio, and a dynamic site using Puppeteer",
+	"main": "rozetka.js",
+	"scripts": {
+		"test": "echo \"No test specified\""
+	},
+	"keywords": [
+		"web scraping",
+		"axios",
+		"cheerio",
+		"puppeteer"
+	],
+	"author": "Oleksii Fedorenko <alavir.web.dev@gmail.com>",
+	"license": "MIT",
+	"dependencies": {
+		"axios": "^0.19.0",
+		"chalk": "^3.0.0",
+		"cheerio": "^1.0.0-rc.3",
+		"obj3ext": "^1.1.0",
+		"puppeteer": "^5.0.0",
+		"tress": "^1.1.4"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/alavir-ua/node-web-scraper.git"
+	}
+}
